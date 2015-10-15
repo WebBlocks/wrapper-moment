@@ -1,0 +1,7 @@
+{
+  "name": "WebBlocks-wrapper-moment",
+  "version": "2.9.0",
+  "dependencies": {
+    "moment": "2.9.0"
+  }
+}
